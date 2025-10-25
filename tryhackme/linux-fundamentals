@@ -1,1 +1,16 @@
 
+# TryHackMe - Linux Fundamentals 🐧
+
+## ✅ What I Learned:
+- cd, ls, pwd – basic navigation
+- chmod, chown – file permissions
+- nano, cat – editing/viewing files
+- /root, /var, /tmp – directory roles
+
+## 🔧 Tools Practiced:
+- curl
+- python3 -m http.server
+- SSH basics
+
+## 💡 Notes:
+This was my first room and I’m starting to feel more comfortable with Linux commands. Super motivated!
